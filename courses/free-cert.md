@@ -12,5 +12,6 @@ Learn with structured courses and get a completetion certificate or badge for fr
 - [Cybrary](https://app.cybrary.it/browse/refined/?resultsView=grid&view=course&license=1)
 - [Let's Defend](https://app.letsdefend.io/accounts/login/?next=/homepage/)
 - [RangeForce](https://go.rangeforce.com/community-edition-registration)
+- [Google CyberSecurity Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate)
 
 ----------------------
